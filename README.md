@@ -4438,6 +4438,7 @@
      var date = new Date(Date.UTC(2019, 07, 07, 3, 0, 0));
      console.log(new Intl.DateTimeFormat("en-GB").format(date)); // 07/08/2019
      console.log(new Intl.DateTimeFormat("en-AU").format(date)); // 07/08/2019
+     console.log(new Intl.DateTimeFormat("de-CH").format(date)); // 7.8.2019
      ```
 
      **[⬆ Back to Top](#table-of-contents)**
