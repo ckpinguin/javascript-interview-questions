@@ -6400,7 +6400,7 @@
 
 333. ### Is JavaScript faster than server side script
 
-      Yes, JavaScript is faster than server side scripts. Because JavaScript is a client-side script it does not require any web server’s help for its computation or calculation. So JavaScript is always faster than any server-side script like ASP, PHP, etc.
+      Yes, most of the time, JavaScript on client side is faster than server side scripts. Because when JavaScript is on client-side there is no direct need for communications with the server side for computations, which prevents network latency delays etc. So JavaScript is mostly faster than any server-side script like ASP, PHP, NodeJS etc.
 
       **[⬆ Back to Top](#table-of-contents)**
 
